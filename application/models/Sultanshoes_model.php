@@ -19,6 +19,6 @@ class Sultanshoes_model extends CI_Model
             $this->harga = 400000;
         }
 
-        return $this->harga
+        return $this->harga;
     }
 }
